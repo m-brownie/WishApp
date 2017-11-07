@@ -1,0 +1,11 @@
+1- Run mongodb :
+Dans le dossier bin de mongodb, lancer :
+mongod.exe --dbpath d:\Developpement\mongodb\data\db
+
+2- Run (back) app.js
+Dans le dossier de l'application, lancer :
+nodemon
+
+3- Run (front)
+Dans le dossier angular-src, lancer :
+ng serve 
